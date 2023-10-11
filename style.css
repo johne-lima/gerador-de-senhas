@@ -13,11 +13,13 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    background: linear-gradient(to top, #55117c, rgb(33, 29, 218));
 }
 
 main {
     padding: 20px;
     box-shadow: 0 1px 10px #ccc;
+    background-color: white;
     display: flex;
     flex-direction: column;
     gap: 15px;
